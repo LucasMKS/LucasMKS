@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Lucas Marques!
+## Olá! Eu sou o Lucas Marques 🖐
 
 <div>
 <h4 align="left">
