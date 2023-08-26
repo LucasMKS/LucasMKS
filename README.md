@@ -2,7 +2,7 @@
 
 <div>
 <h4 align="left">
-   Atualmente estou cursando o terceiro período em Ciência da Computação na Una Contagem.
+   Atualmente estou cursando o quinto período em Ciência da Computação na Una Contagem.
         </div>
 
 <p align="left">
