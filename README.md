@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou Bacharel em Ciência da Computação pela Una Contagem. Sou apaixonado por tecnologia, programação e aprendizado contínuo. Busco aprimorar minhas habilidades e contribuir para projetos impactantes.
+Sou **Bacharel em Ciência da Computação** pela **Una Contagem**. Sou apaixonado por tecnologia, programação e aprendizado contínuo. Busco aprimorar minhas habilidades e contribuir para projetos impactantes.
 
 
 ---
@@ -18,31 +18,23 @@ Sou Bacharel em Ciência da Computação pela Una Contagem. Sou apaixonado por t
 
 ### 🛠️ Habilidades e Tecnologias
 
-- **Linguagens de Programação**: Java, Python, JavaScript
-- **Frameworks e Ferramentas**: Spring Boot, React, TailwindCSS
-- **Bancos de Dados**: PostgreSQL, MySQL
-- **Outras Habilidades**: Git, Metodologias Ágeis
+- **Linguagens de Programação**: Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15" height="15"/>, Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15" height="15"/>, JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/>
+- **Frameworks e Ferramentas**: Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="15" height="15"/>, React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15"/>, TailwindCSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="15" height="15"/>
+- **Bancos de Dados**: PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="15" height="15"/>, MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="15" height="15"/>
+- **Outras Habilidades**: Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15"/>, Metodologias Ágeis, Colaboração em Equipe
 
 ---
 
-### 📊 GitHub Statistics
+### 🌱 Atualmente Aprendendo e Aprimorando
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasMKS&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMKS&theme=github_dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
----
-
-### 🌱 Current Learning
-
-- Enhancing expertise in **Next.js** and backend development.
+- JavaScript, Next.js, e aprimorando expertise em Java e Spring Boot.
 
 ---
 
 ### 🚀 Projects
 
-- **[EcoAI](https://ecoai.vercel.app)**: A platform showcasing AI's role in combating climate change.
-- **Task Manager**: A Spring Boot project with Google account integration and AI features (under development).
+- **[EcoAI](https://github.com/LucasMKS/EcoAI)**: Uma plataforma que demonstra o papel da IA no combate às mudanças climáticas.
+- **[PharmService](https://github.com/LucasMKS/PharmService)**: Um sistema de gerenciamento de estoque farmacêutico que ajuda os usuários a verificar a disponibilidade de medicamentos.
 
 ---
 
