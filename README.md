@@ -35,9 +35,3 @@ Sou **Bacharel em Ciência da Computação** pela **Una Contagem**. Sou apaixona
 
 - **[EcoAI](https://github.com/LucasMKS/EcoAI)**: Uma plataforma que demonstra o papel da IA no combate às mudanças climáticas.
 - **[PharmService](https://github.com/LucasMKS/PharmService)**: Um sistema de gerenciamento de estoque farmacêutico que ajuda os usuários a verificar a disponibilidade de medicamentos.
-
----
-
-### 💡 Fun Fact
-
-I enjoy discovering new music on Spotify while working on coding challenges or projects. 🎧
