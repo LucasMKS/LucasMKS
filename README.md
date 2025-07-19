@@ -1,27 +1,27 @@
-## 👋 Hello! I'm Lucas Marques
+## 👋 Olá! Eu sou o Lucas Marques
 
-### About Me
+### Sobre mim
 
-I am currently in the fifth semester of **Computer Science** at **Una Contagem**. I have a passion for technology, programming, and continuous learning. I strive to improve my skills and contribute to impactful projects.
+Sou Bacharel em Ciência da Computação pela Una Contagem. Sou apaixonado por tecnologia, programação e aprendizado contínuo. Busco aprimorar minhas habilidades e contribuir para projetos impactantes.
+
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Conecte-se Comigo
 
 <p align="left">
-<a href="mailto:lucassilva.5351@aluno.una.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://open.spotify.com/user/8tdzzyfn0mac9owd1zbsp44ed?si=53bd3263a4354648"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/lucas13mrks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lucas-marques-da-silva-23b919232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:lucas.mar18ques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Habilidades e Tecnologias
 
-- **Programming Languages**: Java, Python, JavaScript
-- **Frameworks & Tools**: Spring Boot, React, TailwindCSS
-- **Databases**: PostgreSQL, MySQL
-- **Other Skills**: Git, Problem Solving, Team Collaboration
+- **Linguagens de Programação**: Java, Python, JavaScript
+- **Frameworks e Ferramentas**: Spring Boot, React, TailwindCSS
+- **Bancos de Dados**: PostgreSQL, MySQL
+- **Outras Habilidades**: Git, Metodologias Ágeis
 
 ---
 
